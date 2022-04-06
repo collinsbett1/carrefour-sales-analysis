@@ -4,9 +4,9 @@ Carrefour Kenya is currently undertaking a project that will inform the marketin
 
 These four parts include:
 1. Dimentionality Reduction - A link to the rpubs file for this can be found [here](https://rpubs.com/CollinsSambai/dimentionality-reduction)
-2. Feature Selection -  A link to the rpubs file for this can be found here.
-3. Association Rules -  A link to the rpubs file for this can be found here.
-4. Anomaly Detection - A link to the rpubs file for this can be found here.
+2. Feature Selection -  A link to the rpubs file for this can be found [here](https://rpubs.com/CollinsSambai/feature-selection).
+3. Association Rules -  A link to the rpubs file for this can be found [here](https://rpubs.com/CollinsSambai/association-rules).
+4. Anomaly Detection - A link to the rpubs file for this can be found [here](https://rpubs.com/CollinsSambai/anomaly-detection).
 
 ## 2. Understanding the context.
 The provided data if from Carre Four Kenya’s database and shows transactions that have been underway over a certain period. This is a reflection of behaviour of sales at carre four and well use it to identify principal components in the transactions.
