@@ -12,8 +12,9 @@ These four parts include:
 The provided data if from Carre Four Kenya’s database and shows transactions that have been underway over a certain period. This is a reflection of behaviour of sales at carre four and well use it to identify principal components in the transactions.
 
 ## 3. Recording the Experimental Design
-Data Loading
-Data Cleaning and preprocessing
-Exploratory Data Analysis
-Implementing the solution.
-Recommendations and Conclusions.
+
+1. Data Loading
+2. Data Cleaning and preprocessing
+3. Exploratory Data Analysis
+4. Implementing the solution.
+5. Recommendations and Conclusions.
